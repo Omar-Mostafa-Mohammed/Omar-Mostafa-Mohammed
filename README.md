@@ -3,15 +3,11 @@
 <h1 align="center">Hi 👋, I'm Omar Mostafa</h1>
 <h3 align="center">Back-End .Net Developer.</h3>
 
-- 🌱 I’m currently learning **backend development and advanced algorithms.**
+- 🌱 I’m currently learning **Back-End development using .Net Core.**
 
 - 📄 Know about my experiences **https://drive.google.com/file/d/1Ul1oujUBG9johRhclNCADchGZ0ZKwXAl/view?usp=sharing**
 
-- 🤝 I’m looking for Internship in **frontend / backend development.**
-
 - 📫 How to reach me **omostafa372@gmail.com**
-
-- ⚡ Fun fact **look at my banner.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
