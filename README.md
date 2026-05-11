@@ -31,8 +31,8 @@
 <p align="center">
   <a href="https://linkedin.com/in/omar-mostafa-8398a1233"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:omostafa372@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://codeforces.com/profile/Omaar_Mostafa"><img src="[https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white](https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000)" height="48"/></a>
-  <a href="https://www.leetcode.com/omar_mostafa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="48"/></a>
+  <a href="https://codeforces.com/profile/Omaar_Mostafa"><img src="https://img.icons8.com/?size=100&id=YSy0lU4Y0X4z&format=png&color=000000" height="48"/></a>
+  <a href="https://www.leetcode.com/omar_mostafa"><img src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" height="48"/></a>
 </p>
 
 ---
