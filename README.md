@@ -20,7 +20,7 @@
 - 🎓 &nbsp; **B.Sc. Computer Science** — Ain Shams University *(Very Good, 2019–2023)*
 - 🏆 &nbsp; **ACM ICPC** Contestant — Ranked **27th / 235 teams** in Egyptian Collegiate Qualifications (2022 & 2023)
 - 🧩 &nbsp; Solved **450+ problems** on Codeforces using C++
-- 📄 &nbsp; Check out my [**Resume**](https://drive.google.com/file/d/1Gc7MZXEISjQuksXXI77wdCA10o4XWOdY/view?usp=drive_link)
+- 📄 &nbsp; Check out my [**Resume**](https://drive.google.com/file/d/1S5NKgeXxgqyO4j4_Fu6fFviZYewYlWCH/view?usp=sharing)
 - 📫 &nbsp; Reach me at **omostafa372@gmail.com**
 - 🌍 &nbsp; Cairo, Egypt
 
